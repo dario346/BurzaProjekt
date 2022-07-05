@@ -1,0 +1,6 @@
+C:\Users\Hael\source\repos\BurzaLibrary\BurzaLibraryy\bin\Debug\BurzaLibraryy.dll
+C:\Users\Hael\source\repos\BurzaLibrary\BurzaLibraryy\bin\Debug\BurzaLibraryy.pdb
+C:\Users\Hael\source\repos\BurzaLibrary\BurzaLibraryy\obj\Debug\BurzaLibraryy.csproj.AssemblyReference.cache
+C:\Users\Hael\source\repos\BurzaLibrary\BurzaLibraryy\obj\Debug\BurzaLibraryy.csproj.CoreCompileInputs.cache
+C:\Users\Hael\source\repos\BurzaLibrary\BurzaLibraryy\obj\Debug\BurzaLibraryy.dll
+C:\Users\Hael\source\repos\BurzaLibrary\BurzaLibraryy\obj\Debug\BurzaLibraryy.pdb
